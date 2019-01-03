@@ -1,0 +1,9 @@
+<?php
+
+/**
+ * @file
+ * Server Tokens module.
+ */
+
+/* Load server_tokens.tokens.inc from custom_token module */
+module_load_include('inc', 'server_tokens', 'server_tokens.tokens');

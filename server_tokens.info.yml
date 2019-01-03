@@ -1,0 +1,7 @@
+name: Server Tokens
+description: 'Exposes PHP $_SERVER variable values as tokens.'
+package: Token
+type: module
+dependencies:
+  - 'token:token'
+core: 8.x
