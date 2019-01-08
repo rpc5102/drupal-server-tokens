@@ -19,9 +19,9 @@ This module has potential security implications! It may be used to display infor
 |Token|Name|
 |:--- |:--- |
 |[server:accept]|HTTP_ACCEPT|
-|[server:accept:charset]|HTTP_ACCEPT_CHARSET|
-|[server:accept:encoding]|HTTP_ACCEPT_ENCODING|
-|[server:accept:language]|HTTP_ACCEPT_LANGUAGE|
+|[server:accept :charset]|HTTP_ACCEPT_CHARSET|
+|[server:accept :encoding]|HTTP_ACCEPT_ENCODING|
+|[server:accept :language]|HTTP_ACCEPT_LANGUAGE|
 |[server:address]|SERVER_ADDR|
 |[server:admin]|SERVER_ADMIN|
 |[server:connection]|HTTP_CONNECTION|
