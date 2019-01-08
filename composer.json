@@ -1,5 +1,5 @@
 {
-  "name": "rpc5102/drupal-server-tokens",
+  "name": "rpc5102/drupal-server_tokens",
   "description": "Exposes PHP $_SERVER variable values as Drupal Tokens.",
   "type": "drupal-module",
   "license": "GPL-2.0+",
