@@ -1,24 +1,25 @@
 {
   "name": "rpc5102/drupal-server-tokens",
   "description": "Exposes PHP $_SERVER variable values as Drupal Tokens.",
-  "type": "drupal-custom-module",
+  "type": "drupal-module",
+  "license": "GPL-2.0+",
+  "minimum-stability": "dev",
+  "homepage": "https://github.com/rpc5102/drupal-server-tokens.git",
   "keywords": [
     "Drupal 8",
     "Module",
     "Token"
   ],
-  "homepage": "https://git.psu.edu/rpc5102/drupal-server-tokens.git",
-  "license": "GPL-2.0+",
   "authors": [
     {
-      "name": "Bob Carey (rpc5102)",
+      "name": "ROBERT PATRICK CAREY III",
       "homepage": "https://www.drupal.org/u/rpc5102",
       "role": "Maintainer"
     }
   ],
   "support": {
-    "issues": "https://git.psu.edu/rpc5102/drupal-server-tokens/issues",
-    "source": "https://git.psu.edu/rpc5102/drupal-server-tokens"
+    "issues": "https://github.com/rpc5102/drupal-server-tokens/issues",
+    "source": "https://github.com/rpc5102/drupal-server-tokens"
   },
   "require": {
     "drupal/token": "~1.3"
