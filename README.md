@@ -1,4 +1,4 @@
-Server Tokens 8.x
+Server Tokens 8.x-1.x
 ---------------
 
 ### About this Module
