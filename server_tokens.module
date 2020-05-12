@@ -6,4 +6,4 @@
  */
 
 /* Load server_tokens.tokens.inc from custom_token module */
-module_load_include('inc', 'server_tokens', 'server_tokens.tokens');
+\Drupal::moduleHandler()->loadInclude('server_tokens', 'inc', 'server_tokens.tokens');
